@@ -1,0 +1,11 @@
+name: Improvement
+description: Suggest a feature, integration or change
+labels: [enhancement]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What would you like to see, and why?
+    validations:
+      required: true
