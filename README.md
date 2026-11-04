@@ -2,7 +2,7 @@
 
 Welcome! 👋 This is the official support repository for Whos.
 
-![Node ID: p8wRH](assets/node-id.jpg)
+<p align="center"><img src="assets/whos-artwork.jpg" alt="Whos" width="400"></p>
 
 ## Downloads
 
