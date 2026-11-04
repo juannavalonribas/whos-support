@@ -7,5 +7,8 @@ body:
     attributes:
       label: Description
       description: What would you like to see, and why?
+      placeholder: |
+        What: It would be great if Whos could ...
+        Why: Right now I have to ... and it takes ...
     validations:
       required: true
